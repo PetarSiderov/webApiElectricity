@@ -1,1 +1,24 @@
-# webApiElectricity
+# ✅ GitHub Issues for EV Charging App MVP
+
+- [ ] **Set up ReactJS frontend project** (`frontend`, `mvp`) — Assigned to: `part-time-dev`
+- [ ] **Set up .NET API project with Swagger** (`backend`, `mvp`) — Assigned to: `full-time-dev`
+- [ ] **Design and generate MySQL schema** (`database`, `mvp`) — Assigned to: `full-time-dev`
+- [ ] **Implement JWT authentication and login endpoint** (`backend`, `auth`) — Assigned to: `full-time-dev`
+- [ ] **Create login/register forms in React** (`frontend`, `auth`) — Assigned to: `part-time-dev`
+- [ ] **Dashboard UI mockup and layout** (`frontend`) — Assigned to: `part-time-dev`
+- [ ] **CRUD API за Charging Points** (`backend`) — Assigned to: `full-time-dev`
+- [ ] **Charging Points UI (table, status badges)** (`frontend`) — Assigned to: `part-time-dev`
+- [ ] **Connect frontend to backend (Axios)** (`frontend`, `backend`) — Assigned to: `part-time-dev`
+- [ ] **Implement mock OCPP client with WebSocket (OCPP-J)** (`ocpp`, `backend`) — Assigned to: `full-time-dev`
+- [ ] **Handle BootNotification, Authorize, StartTransaction** (`ocpp`, `backend`) — Assigned to: `full-time-dev`
+- [ ] **Simulate charger status and update UI** (`ocpp`, `frontend`) — Assigned to: `part-time-dev`
+- [ ] **Save sessions and meter values to DB** (`backend`, `database`) — Assigned to: `full-time-dev`
+- [ ] **Implement credit logic before charging** (`backend`) — Assigned to: `full-time-dev`
+- [ ] **Add manual and coupon credit top-up** (`backend`) — Assigned to: `full-time-dev`
+- [ ] **Notify user via Viber/email after charging** (`notifications`) — Assigned to: `part-time-dev`
+- [ ] **Coupon QR code generator and validator** (`frontend`, `backend`) — Assigned to: `part-time-dev`
+- [ ] **Loyalty logic for multi-card users** (`backend`) — Assigned to: `full-time-dev`
+- [ ] **Generate reports (user/charger/total)** (`frontend`, `backend`) — Assigned to: `part-time-dev`
+- [ ] **Export reports to CSV/Excel** (`frontend`) — Assigned to: `part-time-dev`
+- [ ] **Final QA and bug fixing** (`testing`) — Assigned to: `both`
+- [ ] **Dockerize backend and frontend** (`enhancement`) — Assigned to: `full-time-dev`
